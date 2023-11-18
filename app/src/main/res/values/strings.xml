@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Hot Spot</string>
+    <string name="baseurl">https://hotspotb13.co.uk/</string>
+    <string name="orderurl">https://hotspotb13.co.uk/ordernow/</string>
+    <string name="reviewurl">https://hotspotb13.co.uk/review/</string>
+    <string name="loginurl">https://hotspotb13.co.uk/login/</string>
+    <string name="booktable">https://hotspotb13.co.uk/book/</string>
+    <string name="contacturl">https://hotspotb13.co.uk/#footer</string>
+    <string name="allergyurl">https://hotspotb13.co.uk/allergy/</string>
+    <string name="privacyurl">https://hotspotb13.co.uk/privacy/</string>
+    <string name="termsurl">https://hotspotb13.co.uk/terms/</string>
+    <string name="book">https://hotspotb13.co.uk/book/</string>
+    <string name="notification">https://hotspotb13.co.uk/extras/</string>
+    <string name="privacypolicy"><u> Privacy Policy </u></string>
+    <string name="teams"><u> Terms &amp; Condition </u></string>
+    <string name="compname">Hot Spot</string>
+    <string name="compnametit">Hot Spot Taste the Pizza Pyramids</string>
+</resources>

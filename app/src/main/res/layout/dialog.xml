@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_centerInParent="true"
+        android:background="#ffffffff"
+        android:gravity="center"
+        android:orientation="vertical"
+        app:layout_constraintCircleRadius="10dp">
+
+        <ImageView
+            android:id="@+id/aimg"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:background="@color/spblack"
+            android:gravity="center"
+            android:scaleType="fitCenter"
+            android:src="@drawable/applogo" />
+
+
+
+        <TextView
+            android:id="@+id/text_dialog"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/aimg"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="4dp"
+            android:layout_marginTop="30dp"
+            android:layout_marginBottom="20dp"
+            android:fontFamily="@font/poppins_light"
+            android:text="TEXTO"
+            android:textColor="@color/spred"
+            android:textSize="20sp" />
+
+        <Button
+            android:id="@+id/btn_dialog"
+            android:layout_width="150dp"
+            android:layout_height="40dp"
+            android:layout_below="@+id/text_dialog"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="20dp"
+            android:background="@color/spred"
+            android:backgroundTint="@color/spred"
+            android:gravity="center_vertical|center_horizontal"
+            android:text="OK"
+            android:textColor="@color/white" />
+
+    </RelativeLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

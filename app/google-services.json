@@ -1,0 +1,382 @@
+{
+  "project_info": {
+    "project_number": "120584073011",
+    "project_id": "android-push-notificatio-f4ce9",
+    "storage_bucket": "android-push-notificatio-f4ce9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120584073011:android:ba62ad83997dac9c04d846",
+        "android_client_info": {
+          "package_name": "com.fusionpos.Bukharaa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "120584073011-dr2mn1npl3ojn2d62u7t0grb3cnte792.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fusionpos.Bukharaa",
+            "certificate_hash": "a9d595de9f48670fefeb020e4fc82844eda4ddf0"
+          }
+        },
+        {
+          "client_id": "120584073011-q6b3c53ns59knuonq8pn1quahtiluro2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmsruPh-CNuN_m-D5YoIozmXHS_eZTchc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "120584073011-q6b3c53ns59knuonq8pn1quahtiluro2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120584073011:android:f3a0e326f33c892304d846",
+        "android_client_info": {
+          "package_name": "com.fusionpos.HomeLandHungarianFood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "120584073011-2bt3d5vquj6kuid84pj3lkglm1vgeipe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fusionpos.HomeLandHungarianFood",
+            "certificate_hash": "a9d595de9f48670fefeb020e4fc82844eda4ddf0"
+          }
+        },
+        {
+          "client_id": "120584073011-q6b3c53ns59knuonq8pn1quahtiluro2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmsruPh-CNuN_m-D5YoIozmXHS_eZTchc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "120584073011-q6b3c53ns59knuonq8pn1quahtiluro2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120584073011:android:78cf7b810519d94704d846",
+        "android_client_info": {
+          "package_name": "com.fusionpos.MarlenesPantry"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "120584073011-c3dnglgq4dfjgrcnu3ol79q2pg9agujl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fusionpos.MarlenesPantry",
+            "certificate_hash": "a9d595de9f48670fefeb020e4fc82844eda4ddf0"
+          }
+        },
+        {
+          "client_id": "120584073011-q6b3c53ns59knuonq8pn1quahtiluro2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmsruPh-CNuN_m-D5YoIozmXHS_eZTchc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "120584073011-q6b3c53ns59knuonq8pn1quahtiluro2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120584073011:android:a70596744c79e85404d846",
+        "android_client_info": {
+          "package_name": "com.fusionpos.charcoalflare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "120584073011-q6b3c53ns59knuonq8pn1quahtiluro2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmsruPh-CNuN_m-D5YoIozmXHS_eZTchc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "120584073011-q6b3c53ns59knuonq8pn1quahtiluro2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120584073011:android:b16d80d722a27f1004d846",
+        "android_client_info": {
+          "package_name": "com.fusionpos.fusionofleigh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "120584073011-q6b3c53ns59knuonq8pn1quahtiluro2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmsruPh-CNuN_m-D5YoIozmXHS_eZTchc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "120584073011-q6b3c53ns59knuonq8pn1quahtiluro2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120584073011:android:0d73a7da3710505e04d846",
+        "android_client_info": {
+          "package_name": "com.fusionpos.goaindiantakeaway"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "120584073011-q6b3c53ns59knuonq8pn1quahtiluro2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmsruPh-CNuN_m-D5YoIozmXHS_eZTchc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "120584073011-q6b3c53ns59knuonq8pn1quahtiluro2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120584073011:android:56bb4aa1565a38b104d846",
+        "android_client_info": {
+          "package_name": "com.fusionpos.greatsuttonpizza"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "120584073011-q6b3c53ns59knuonq8pn1quahtiluro2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmsruPh-CNuN_m-D5YoIozmXHS_eZTchc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "120584073011-q6b3c53ns59knuonq8pn1quahtiluro2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120584073011:android:c21b4664813c6d7204d846",
+        "android_client_info": {
+          "package_name": "com.fusionpos.hotspot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "120584073011-q6b3c53ns59knuonq8pn1quahtiluro2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmsruPh-CNuN_m-D5YoIozmXHS_eZTchc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "120584073011-q6b3c53ns59knuonq8pn1quahtiluro2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120584073011:android:92e814640e8acf7804d846",
+        "android_client_info": {
+          "package_name": "com.fusionpos.indobites"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "120584073011-q6b3c53ns59knuonq8pn1quahtiluro2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmsruPh-CNuN_m-D5YoIozmXHS_eZTchc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "120584073011-q6b3c53ns59knuonq8pn1quahtiluro2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120584073011:android:b160ef091960c6b304d846",
+        "android_client_info": {
+          "package_name": "com.fusionpos.kolkatarestaurant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "120584073011-q6b3c53ns59knuonq8pn1quahtiluro2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmsruPh-CNuN_m-D5YoIozmXHS_eZTchc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "120584073011-q6b3c53ns59knuonq8pn1quahtiluro2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120584073011:android:323370a430585ecd04d846",
+        "android_client_info": {
+          "package_name": "com.fusionpos.pachotodinning"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "120584073011-q6b3c53ns59knuonq8pn1quahtiluro2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmsruPh-CNuN_m-D5YoIozmXHS_eZTchc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "120584073011-q6b3c53ns59knuonq8pn1quahtiluro2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120584073011:android:60d388af448eb66f04d846",
+        "android_client_info": {
+          "package_name": "com.fusionpos.thegoldcoastbar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "120584073011-q6b3c53ns59knuonq8pn1quahtiluro2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmsruPh-CNuN_m-D5YoIozmXHS_eZTchc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "120584073011-q6b3c53ns59knuonq8pn1quahtiluro2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
